@@ -1,0 +1,36 @@
+.panel-body h2 {
+    color:rgb(12, 202, 186);
+    font-size:25px;
+    font-family:Georgia;
+}
+
+.panel-body p{
+    font-family:aerial;
+    font-size:20px;
+    color:grey;
+}
+
+
+.footer {
+    background-color:black;
+    padding:10px;
+    color:white;
+    border-top:8px rgb(12, 202, 186) solid; 
+ }
+
+.active{
+    background-color:rgb(12, 202, 186);
+    font-size:35px;
+    font-family:Georgia;
+    padding:6px; 
+    color:white;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
